@@ -6,6 +6,8 @@ public class Program {
 		
 		System.out.println("Salve");
 
+		System.out.println("Salve Rapaziada!!!");
+		
 	}
 
 }
