@@ -8,6 +8,6 @@ public class Program {
 
 		System.out.println("Salve Rapaziada!!!");
 		
+		System.out.println("Só Salve Só");
 	}
-
 }
